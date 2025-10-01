@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head><meta charset="utf-8"><title>Teste</title></head>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=https://www.roblox.com/share?code=266ae1dcda1862468c4f06490437a4ae&type=Server" />
+  <title>Redirecionando...</title>
+</head>
 <body>
-  <h1>Funcionou!</h1>
-  <p>GitHub Pages test</p>
+  <p>Se não for redirecionado automaticamente, clique 
+     <a href="https://www.roblox.com/share?code=266ae1dcda1862468c4f06490437a4ae&type=Server">aqui</a>.
+  </p>
 </body>
 </html>
+
+
 
 
 
