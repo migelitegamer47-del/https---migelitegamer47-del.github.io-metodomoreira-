@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Método Moreira</title>
+</head>
+<body>
+  <h1>Bem-vindo ao Método Moreira!</h1>
+  <p>Clique abaixo para entrar no Roblox:</p>
+  
+  <a href="https://www.roblox.com/share?code=266ae1dcda1862468c4f06490437a4ae&type=Server" 
+     style="font-size:20px; color:blue; text-decoration:none;" target="_blank">
+     ➤ Entrar no Servidor do Roblox
+  </a>
+</body>
+</html>
